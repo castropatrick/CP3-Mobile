@@ -118,6 +118,9 @@ Durante o desenvolvimento, enfrentamos alguns desafios interessantes:
 3. **Design Responsivo:** Garantir que o app ficasse bonito em diferentes tamanhos de tela
 4. **Passagem de Parâmetros:** Entender como passar dados entre telas de forma eficiente
 
+## 🎥 Link do video 
+
+Link: https://www.youtube.com/watch?v=kW3N6aJmyxs
 
 ---
 
